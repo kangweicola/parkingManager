@@ -112,4 +112,9 @@ public class ParkTest {
         Assert.assertEquals(park.getNowCarPork(),2);
         System.out.println("********************测试出库结束******************************");
     }
+
+    @Test
+    public void testaa(){
+
+    }
 }

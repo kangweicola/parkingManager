@@ -70,7 +70,7 @@
       <file leaf-file-name="ParkTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/buaa/ParkTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="42" selection-start="2500" selection-end="2500" vertical-scroll-proportion="1.1160458">
+            <state line="113" column="38" selection-start="3720" selection-end="3720" vertical-scroll-proportion="0.78223497">
               <folding />
             </state>
           </provider>
@@ -606,11 +606,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ParkTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ParkTest.addCar" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ParkTest.subCar" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ParkTest.jjcc" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CarParkManager" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CarParkManager" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ParkTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ParkTest.addCar" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ParkTest.subCar" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ParkTest.jjcc" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -627,7 +627,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="878" extended-state="7" />
+    <frame x="-4" y="-4" width="1448" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -728,7 +728,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/buaa/ParkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="42" selection-start="2500" selection-end="2500" vertical-scroll-proportion="1.1160458">
+        <state line="113" column="38" selection-start="3720" selection-end="3720" vertical-scroll-proportion="0.78223497">
           <folding />
         </state>
       </provider>
